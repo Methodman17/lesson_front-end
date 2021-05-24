@@ -6,21 +6,17 @@
 .header {
     text-align: center; 
     padding-top: 100px;
+    margin-top: 10%;
 }
 .logo {
     text-align: center;
 }
-.footer p {
-    color: white;
-}
-.footer {
-    text-align: center; 
-}
+
 .title {
    color: white;
     font-family: "Open Sans";
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 4;
     text-align: center;
     margin-top: 200px;
 }
@@ -32,6 +28,7 @@
 }
 .div-title {
     text-align: center;
+    
 }
 .icons {
     margin-right: 15px;
@@ -47,4 +44,10 @@
     font-style: normal;
     letter-spacing: normal;
     line-height: normal;
+}
+  .footer p {
+    color: white;
+}
+.footer {
+    text-align: center; 
 }
