@@ -1,0 +1,52 @@
+
+.body {
+    background: linear-gradient(to right, #29242b 70%, #121116  0);
+    background-size: 100px 
+}
+.header {
+    text-align: center; 
+    padding-top: 100px;
+}
+.logo {
+    text-align: center;
+}
+.footer p {
+    color: white;
+}
+.footer {
+    text-align: center; 
+}
+.title {
+   color: white;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 200px;
+}
+.line {
+    width: 230px;
+    background-color: #ffffff;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.div-title {
+    text-align: center;
+    
+}
+.icons {
+    margin-right: 15px;
+    text-align: center;
+    margin-bottom: 300px;
+    padding-bottom: 30px;
+   
+}
+.social__links-item {
+    margin-left: 35px;
+}
+.Kasper {
+    color: #19c8fa;
+    font-style: normal;
+    letter-spacing: normal;
+    line-height: normal;
+}
